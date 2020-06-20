@@ -323,9 +323,6 @@ footer a:hover{
     }
 }
 @media (max-width: 360px){
-    .build{
-        background-color: hotpink;
-    }
     .build h2{
         font-size: 23px;
     }
