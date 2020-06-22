@@ -335,4 +335,13 @@ footer a:hover{
     .ready button{
         width: 80%;
     }
+    .left-card{
+        padding: 0;
+    }
+    .left-card h3{
+        text-align: center;
+    }
+    .right-card img{
+        margin-bottom: 20px;
+    }
 }
